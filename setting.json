@@ -1,0 +1,11 @@
+[
+    {
+    "id":1,
+    "title":"My website",
+    "keywords":"news,sport,political,social",
+    "description":"this is my website",
+    "logo":"images/logo.png",
+    "footer":"copyright ",
+    "auther":"Mohsen Binava"
+    }
+]

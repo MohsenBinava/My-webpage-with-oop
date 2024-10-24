@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "firstName":"Mohsen",
+        "lastName":"Binava",
+        "email":"mohsenbinava1373@gmail.com",
+        "password":"123456",
+        "date":"2024-10-15 15:00:30"
+    },
+    {
+        "id":2,
+        "firstName":"ali",
+        "lastName":"Binava",
+        "email":"ali@gmail.com",
+        "password":"123456",
+        "date":"2024-10-15 15:00:30"
+    },
+    {
+        "id":3,
+        "firstName":"mohamad",
+        "lastName":"Binava",
+        "email":"mohamad@gmail.com",
+        "password":"123456",
+        "date":"2024-10-15 15:00:30"
+    }
+]
